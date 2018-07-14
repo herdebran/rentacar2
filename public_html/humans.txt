@@ -1,0 +1,27 @@
+﻿/* TEAM */
+	Diseño:Leonardo Perusin
+	From:Buenos Aires, Argentina
+
+	Diseño:Alavaro Pinillos
+	From:Buenos Aires, Argentina
+
+	Relevamiento:Leonardo Perusin
+	From:Buenos Aires, Argentina
+
+	Relevamiento:Alavaro Pinillos
+	From:Buenos Aires, Argentina
+
+	Development: Augusto Wloch
+	Twitter: @augustowloch
+	From:Buenos Aires, Argentina
+
+	Web designer: Augusto Wloch
+	Twitter: @augustowloch
+	From:Buenos Aires, Argentina
+
+
+/* SITE */
+	Last update:2017/03/21
+	Language: Español
+	Doctype:HTML5
+	IDE: Sublime Text, FileZilla, MySQL
